@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ryzeljay
+- 👋 Hi, I’m @ryand
 - 🌱 I’m currently learning ...
 
 <!---
